@@ -1,0 +1,1 @@
+web: gunicorn DentBlog.wsgi --log-file -
